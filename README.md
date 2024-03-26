@@ -2,18 +2,19 @@ Hello! I'm Vincent Loh, a high school sophomore.
 
 I do a lot of programming, these days mostly usaco-style contest programming.
 A few years ago I used to spend a lot of time making (pretty bad) web games
-with p5js, and I still occasionally make little animation projects.
+with p5js, and still occasionally make little animation projects, like
+[this one](https://github.com/vmhl87/simple-animation-framework).
 
 C and C++ are the languages I primarily use, especially for contest programming.
-I occasionally use Python or JS, and rarely Processing. Recently I've been
-messing around with functional programming, and learning a bit of Haskell.
+Occasionally I use Python or JS, and rarely Processing. Recently I've been
+messing around with functional programming and learning a bit of Haskell.
 
 Hardware:
 
-<details><summary>Ubuntu 22.04 LTS (PC)</summary>
+<details><summary>PC</summary>
 
 My primary computer is an AMD machine - Ryzen 5 2600 running Ubuntu.
-It has a pretty standard setup running Gnome.
+It has a pretty standard setup running Gnome on Ubuntu 22.
 
 I dislike IDEs and primarily use a combination of nvim and tmux.
 I may in the future switch to an i3 on Debian setup similar to the
@@ -23,7 +24,7 @@ one on my laptop.
 
 </details>
 
-<details><summary>Debian 12 (Laptop)</summary>
+<details><summary>Laptop</summary>
 
 My choice of laptop is rather odd - it's a Lenovo ideapad 3 chromebook.
 
@@ -33,8 +34,8 @@ pretty big battery, its battery life is very very good. I end up having
 to charge once every week or so, despite using it for school.
 
 A few months ago, I ran this laptop in "standard" chromeOS, doing most
-of my work in the VT2 virtual terminal emulator. (essentially a TTY)
-Recently I flashed a UEFI bootloader and installed Debian 12.
+of my work in the VT2 virtual terminal emulator (essentially a TTY)
+but I recently flashed a UEFI bootloader and installed Debian 12.
 
 Though I have i3 configured, I end up doing the majority of my work
 in the TTY, with a combination of nvim, tmux, and w3m.
@@ -66,4 +67,4 @@ Not a lot of my older projects are on my github. I have various web games
 on [OpenProcessing](https://openprocessing.org/user/250345), most in various
 stages of completeness.
 
-I'm `i.frame` on Discord, feel free to find me!
+I'm `i.frame` on Discord, feel free to contact me!
