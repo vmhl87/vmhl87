@@ -5,6 +5,11 @@ A few years ago I used to spend a lot of time making (pretty bad) web games
 with p5js, and still occasionally make little animation projects, like
 [this one](https://github.com/vmhl87/simple-animation-framework).
 
+[usaco](https://github.com/vmhl87/usaco) is probably my most active repo,
+which I update every few days. I mantain a usaco repo with most of the work
+I do in my [algorithm design](https://github.com/vmhl87/alg_design) class
+at school. It has a bunch of random projects and notes.
+
 C and C++ are the languages I primarily use, especially for contest programming.
 Occasionally I use Python or JS, and rarely Processing. Recently I've been
 messing around with functional programming and learning a bit of Haskell.
@@ -13,7 +18,7 @@ Hardware:
 
 <details><summary>PC</summary>
 
-My primary computer is an AMD machine - Ryzen 5 2600 running Ubuntu.
+My desktop is an AMD machine - Ryzen 5 2600 running Ubuntu.
 It has a pretty standard setup running Gnome on Ubuntu 22.
 
 I dislike IDEs and primarily use a combination of nvim and tmux.
@@ -30,7 +35,7 @@ My choice of laptop is rather odd - it's a Lenovo ideapad 3 chromebook.
 
 With an Intel Celeron N4020 underclocked to 1.1GHz and Intel integrated
 graphics, its performance is far from good. However, combined with a
-pretty big battery, its battery life is very very good. I end up having
+pretty big battery, it gets a very high SOT. I end up having
 to charge once every week or so, despite using it for school.
 
 A few months ago, I ran this laptop in "standard" chromeOS, doing most
@@ -58,8 +63,8 @@ prefer Cydia.
 
 ![](assets/phone.png)
 
-I am not yet fluent in Objective-C, but I have written a few tweaks -
-particularly [radianator](https://github.com/vmhl87/kelvin).
+I am not very good at Objective-C, but I have written a few tweaks -
+for example [radianator](https://github.com/vmhl87/radianator).
 
 </details>
 
