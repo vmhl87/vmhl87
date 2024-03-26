@@ -10,7 +10,7 @@ messing around with functional programming, and learning a bit of Haskell.
 
 Hardware:
 
-<summary><title>Ubuntu 22.04 LTS (PC)</title>
+<details><summary>Ubuntu 22.04 LTS (PC)</summary>
 	My primary computer is an AMD machine - Ryzen 5 2600 running Ubuntu.
 	It has a pretty standard setup running Gnome.
 
@@ -19,9 +19,9 @@ Hardware:
 	one on my laptop.
 
 	![](assets/pc.png)
-</summary>
+</details>
 
-<summary><title>Debian 12 (Laptop)</title>
+<details><summary>Debian 12 (Laptop)</summary>
 	My choice of laptop is rather odd - it's a Lenovo ideapad 3 chromebook.
 	
 	With an Intel Celeron N4020 underclocked to 1.1GHz and Intel integrated
@@ -39,10 +39,25 @@ Hardware:
 	![](assets/chrono-tty.png)
 	
 	![](assets/chrono.png)
-</summary>
+</details>
+
+<details></summary>Phone</summary>
+	I use a jailbroken iphone SE (first generation, from 2016) on iOS 13.4.1.
+	It has the clang toolchain and SDK installed, so I can (and sometimes do)
+	code on this device.
+
+	I am jailbroken with a combination of checkra1n and unc0ver, running the
+	Elucubratus bootstrap. Though I have Zebra installed, I am weird and
+	prefer Cydia.
+
+	![](assets/phone.png)
+
+	I am not yet fluent in Objective-C, but I have written a few tweaks -
+	particularly [radianator](https://github.com/vmhl87/kelvin).
+</details>
 
 Not a lot of my older projects are on my github. I have various web games
 on [OpenProcessing](https://openprocessing.org/user/250345), most in various
 stages of completeness.
 
-You can contact me on Discord as `i.frame`!
+I'm `i.frame` on Discord, feel free to find me!
