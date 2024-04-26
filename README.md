@@ -57,9 +57,8 @@ I use a jailbroken iphone SE (first generation, from 2016) on iOS 13.4.1.
 It has the clang toolchain and SDK installed, so I can (and sometimes do)
 code on this device.
 
-I am jailbroken with a combination of checkra1n and unc0ver, running the
-Elucubratus bootstrap. Though I have Zebra installed, I am weird and
-prefer Cydia.
+I used to use unc0ver v6.2.0, with the elu bootstrap, but recently I
+switched to procursus on Odyssey.
 
 ![](assets/phone.png)
 
