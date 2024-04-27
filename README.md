@@ -18,6 +18,8 @@ Hardware:
 
 <details><summary>PC</summary>
 
+TODO: update this with new setup
+
 My desktop is an AMD machine - Ryzen 5 2600 running Ubuntu.
 It has a pretty standard setup running Gnome on Ubuntu 22.
 
