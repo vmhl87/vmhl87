@@ -1,7 +1,7 @@
 Hello! I'm Vincent Loh, a high school sophomore.
 
-I do a lot of programming, these days mostly usaco-style contest programming.
-A few years ago I used to spend a lot of time making (pretty bad) web games
+I do a lot of programming, these days mostly contest programming.
+A few years ago I spent most of my time making (pretty bad) web games
 with p5js, and still occasionally make little animation projects, like
 [this one](https://github.com/vmhl87/simple-animation-framework).
 
@@ -11,23 +11,26 @@ I do in my [algorithm design](https://github.com/vmhl87/alg_design) class
 at school. It has a bunch of random projects and notes.
 
 C and C++ are the languages I primarily use, especially for contest programming.
-Occasionally I use Python or JS, and rarely Processing. Recently I've been
-messing around with functional programming and learning a bit of Haskell.
+Occasionally I use Python or JS, and rarely Processing. I messed around with
+Haskell a bit, but I still prefer C.
 
 Hardware:
 
 <details><summary>PC</summary>
 
-TODO: update this with new setup
+My desktop is an AMD machine - Ryzen 5 2600 running Debian 12.
+I used to use Ubuntu, but recently switched to this current setup - Gnome
+and snap were getting on my nerves.
 
-My desktop is an AMD machine - Ryzen 5 2600 running Ubuntu.
-It has a pretty standard setup running Gnome on Ubuntu 22.
+I have a similar setup to my laptop: i3 as a window manager, with a tmux-based
+terminal setup. Unlike that laptop, though, I use a graphical terminal (st)
+rather than the framebuffer one, which has issues with scaling on my monitor.
 
-I dislike IDEs and primarily use a combination of nvim and tmux.
-I may in the future switch to an i3 on Debian setup similar to the
-one on my laptop.
+My i3 bindings are a bit strange - find them [here](pc).
 
 ![](assets/pc.png)
+
+![](assets/pc_term.png)
 
 </details>
 
@@ -35,17 +38,21 @@ one on my laptop.
 
 My choice of laptop is rather odd - it's a Lenovo ideapad 3 chromebook.
 
-With an Intel Celeron N4020 underclocked to 1.1GHz and Intel integrated
-graphics, its performance is far from good. However, combined with a
-pretty big battery, it gets a very high SOT. I end up having
-to charge once every week or so, despite using it for school.
+With an Intel Celeron N4020 underclocked to 800mhz and barely functional
+Intel integrated graphics, its performance is far from good. However,
+combined with a pretty substantial battery, it gets a very high SOT.
+I end up having to charge once every week or so, despite using it as my
+daily driver.
 
-A few months ago, I ran this laptop in "standard" chromeOS, doing most
-of my work in the VT2 virtual terminal emulator (essentially a TTY)
-but I recently flashed a UEFI bootloader and installed Debian 12.
+I used to run this laptop in "standard" chromeOS, doing most
+of my work in the VT2 virtual terminal emulator (essentially a worse framebuffer
+console) but I flashed a UEFI bootloader and installed Debian 12.
 
-Though I have i3 configured, I end up doing the majority of my work
+Though I have i3 configured, I do the majority of my work
 in the TTY, with a combination of nvim, tmux, and w3m.
+
+My [framebuffer graphics library](https://github.com/vmhl87/fbgui) was originally
+built for use on this laptop.
 
 ![](assets/chrono-tty.png)
 
@@ -59,8 +66,7 @@ I use a jailbroken iphone SE (first generation, from 2016) on iOS 13.4.1.
 It has the clang toolchain and SDK installed, so I can (and sometimes do)
 code on this device.
 
-I used to use unc0ver v6.2.0, with the elu bootstrap, but recently I
-switched to procursus on Odyssey.
+It is jailbroken with Odysseyra1n, running the Procursus bootstrap.
 
 ![](assets/phone.png)
 
