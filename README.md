@@ -6,7 +6,7 @@ with p5js, and still occasionally make little animation projects, like
 [this one](https://github.com/vmhl87/simple-animation-framework).
 
 [usaco](https://github.com/vmhl87/usaco) is probably my most active repo,
-which I update every few days. I mantain a usaco repo with most of the work
+which I update every few days. I mantain a github repo with most of the work
 I do in my [algorithm design](https://github.com/vmhl87/alg_design) class
 at school. It has a bunch of random projects and notes.
 
