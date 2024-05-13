@@ -79,4 +79,4 @@ Not a lot of my older projects are on my github. I have various web games
 on [OpenProcessing](https://openprocessing.org/user/250345), most in various
 stages of completeness.
 
-I'm `i.frame` on Discord, feel free to contact me!
+I'm `if.rm` on Discord, feel free to contact me!
