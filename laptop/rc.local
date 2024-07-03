@@ -1,0 +1,4 @@
+#!/bin/bash
+echo D015 > /proc/acpi/wakeup
+
+exit 0
