@@ -1,18 +1,12 @@
 Hello! I'm Vincent Loh, a high school sophomore.
 
-I do a lot of programming, these days mostly contest programming.
-A few years ago I spent most of my time making (pretty bad) web games
-with p5js, and still occasionally make little animation projects, like
-[this one](https://github.com/vmhl87/simple-animation-framework).
+I mostly build little projects and do contest programming like usaco/codeforces/etc.
 
-[usaco](https://github.com/vmhl87/usaco) is probably my most active repo,
-which I update every few days. I mantain a github repo with most of the work
-I do in my [algorithm design](https://github.com/vmhl87/alg_design) class
-at school. It has a bunch of random projects and notes.
-
-C and C++ are the languages I primarily use, especially for contest programming.
-Occasionally I use Python or JS, and rarely Processing. I messed around with
-Haskell a bit, but I still prefer C.
+Primarily I use C and C++, especially for contest programming. I used to do
+more development in JS, especially making web games. Recently though, I have
+been working much more [with pure C](https://github.com/vmhl87/fbgui) making
+command-line utilities. I recently built [Starship](https://github.com/vmhl87/starship),
+which is written in Python.
 
 Hardware:
 
@@ -70,13 +64,12 @@ It is jailbroken with Odysseyra1n, running the Procursus bootstrap.
 
 ![](assets/phone.png)
 
-I am not very good at Objective-C, but I have written a few tweaks -
+I am not that good at Objective-C, but I have written a few tweaks -
 for example [radianator](https://github.com/vmhl87/radianator).
 
 </details>
 
-Not a lot of my older projects are on my github. I have various web games
-on [OpenProcessing](https://openprocessing.org/user/250345), most in various
-stages of completeness.
+I have some old web games on [OpenProcessing](https://openprocessing.org/user/250345),
+most in various stages of completion.
 
-I'm `if.rm` on Discord, feel free to contact me!
+Also, I have a Github Pages site! Check it out [here](https://vmhl87.github.io/starship).
