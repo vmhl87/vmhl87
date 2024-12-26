@@ -1,26 +1,14 @@
-Hello! I'm Vincent Loh, a high school sophomore.
+Hello! I'm Vincent Loh, a high school junior.
 
-I mostly build little projects and do contest programming like usaco/codeforces/etc.
-
-Primarily I use C and C++, especially for contest programming. I used to do
-more development in JS, especially making web games. Recently though, I have
-been working much more [with pure C](https://github.com/vmhl87/fbgui) making
-command-line utilities. I recently built [Starship](https://github.com/vmhl87/starship),
-which is written in Python.
+I make various little projects here and there, and also enjoy competitive programming
+(USACO, Codeforces, AtCoder). I also mantain [a little blog](https://vmhl87.github.io/starship)
+that post to every so often (though not enough).
 
 Hardware:
 
-<details><summary>PC</summary>
+<details><summary>Desktop</summary>
 
-My desktop is an AMD machine - Ryzen 5 2600 running Debian 12.
-I used to use Ubuntu, but recently switched to this current setup - Gnome
-and snap were getting on my nerves.
-
-I have a similar setup to my laptop: i3 as a window manager, with a tmux-based
-terminal setup. Unlike that laptop, though, I use a graphical terminal (st)
-rather than the framebuffer one, which has issues with scaling on my monitor.
-
-My i3 bindings are a bit strange - find them [here](pc).
+AMD machine (Ryzen 5 2600) running Debian 12. Minimalistic i3 setup.
 
 ![](assets/pc.png)
 
@@ -30,23 +18,20 @@ My i3 bindings are a bit strange - find them [here](pc).
 
 <details><summary>Laptop</summary>
 
-My choice of laptop is rather odd - it's a Lenovo ideapad 3 chromebook.
+I run a (former) celeron chromebook as my main laptop. It's now on debian 12,
+with a similar minimal i3 setup. Additionally, I've underclocked the N4020
+processor to 800mhz.
 
-With an Intel Celeron N4020 underclocked to 800mhz and barely functional
-Intel integrated graphics, its performance is far from good. However,
-combined with a pretty substantial battery, it gets a very high SOT.
-I end up having to charge once every week or so, despite using it as my
-daily driver.
+Interestingly, it holds up well enough to perform basic web browsing and pretty
+much any CLI workflow without issues. Combined with its relatively alright wifi
+card and its actually pretty insane battery capacity, I'm able to use it as a
+thin client - running lighter tasks on-laptop, and offloading heavier tasks to
+my desktop via SSH/VNC.
 
-I used to run this laptop in "standard" chromeOS, doing most
-of my work in the VT2 virtual terminal emulator (essentially a worse framebuffer
-console) but I flashed a UEFI bootloader and installed Debian 12.
-
-Though I have i3 configured, I do the majority of my work
-in the TTY, with a combination of nvim, tmux, and w3m.
-
-My [framebuffer graphics library](https://github.com/vmhl87/fbgui) was originally
-built for use on this laptop.
+Usually, I only use my laptop at school, and it lasts around a week and a half
+to two weeks of usage on a single charge. When I'm traveling and using it more
+often, I easily get four or five days. Because of this, I can often get away
+with not bringing around a charger at all on most trips.
 
 ![](assets/chrono-tty.png)
 
@@ -70,6 +55,4 @@ for example [radianator](https://github.com/vmhl87/radianator).
 </details>
 
 I have some old web games on [OpenProcessing](https://openprocessing.org/user/250345),
-most in various stages of completion.
-
-Also, I have a Github Pages site! Check it out [here](https://vmhl87.github.io/starship).
+mostly uncompleted.
