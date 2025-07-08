@@ -18,39 +18,18 @@ AMD machine (Ryzen 5 2600) running Debian 12. Minimalistic i3 setup.
 
 <details><summary>Laptop</summary>
 
-I run a (former) celeron chromebook as my main laptop. It's now on debian 12,
-with a similar minimal i3 setup. Additionally, I've underclocked the N4020
-processor to 800mhz.
+Lenovo Chromebook (N4020, underclocked to 800mhz) also running i3 / Debian 12.
 
-Interestingly, it holds up well enough to perform basic web browsing and pretty
-much any CLI workflow without issues. Combined with its relatively alright wifi
-card and its actually pretty insane battery capacity, I'm able to use it as a
-thin client - running lighter tasks on-laptop, and offloading heavier tasks to
-my desktop via SSH/VNC.
+As expected, its performance is very lacking. Its battery life makes up for it,
+managing almost 24 hours of screen-on time (for a standard usage profile) or
+12 hours (at continous maximum processor usage) with a single charge.
 
-Usually, I only use my laptop at school, and it lasts around a week and a half
-to two weeks of usage on a single charge. When I'm traveling and using it more
-often, I easily get four or five days. Because of this, I can often get away
-with not bringing around a charger at all on most trips.
+Especially under i3, light web browsing and terminal work runs acceptably well.
+For more intensive tasks, I open an SSH or TightVNC tunnel back to my desktop.
 
 ![](assets/chrono-tty.png)
 
 ![](assets/chrono.png)
-
-</details>
-
-<details><summary>Phone</summary>
-
-I use a jailbroken iphone SE (first generation, from 2016) on iOS 13.4.1.
-It has the clang toolchain and SDK installed, so I can (and sometimes do)
-code on this device.
-
-It is jailbroken with Odysseyra1n, running the Procursus bootstrap.
-
-![](assets/phone.png)
-
-I am not that good at Objective-C, but I have written a few tweaks -
-for example [radianator](https://github.com/vmhl87/radianator).
 
 </details>
 
