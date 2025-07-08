@@ -1,4 +1,4 @@
-Hello! I'm Vincent Loh, a high school junior.
+Hello! I'm Vincent Loh, a high school senior.
 
 I make various little projects here and there, and also enjoy competitive programming
 (USACO, Codeforces, AtCoder). I also mantain [a little blog](https://vmhl87.github.io/starship)
